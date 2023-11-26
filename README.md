@@ -1,17 +1,22 @@
-# entregas
+# Animation-button-in-login-screen
 
-A new Flutter project.
+<img src="https://blog.scottlogic.com/bquinn/assets/Flutter_logo_text.png" width="200">
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+Animação de load no bottão para telas 
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Linguagem de Programação**: Dart
+- **Framework**: Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Animation-button-in-login-screen" 
+
+## Instalação
+
+Instruções de como instalar e configurar o aplicativo localmente. Por exemplo:
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/LucasSousa97/Animation-button-in-login-screen.git
